@@ -55,6 +55,13 @@ Key findings:
 - Women are more likely to see a doctor, eat healthy, and get vaccinated, but report significantly higher stress and mood disorders. Men report higher substance use across all categories but paradoxically report better perceived mental health, suggesting possible underreporting.
 - British Columbia consistently leads on both positive and negative indicators, while Newfoundland and Labrador ranks lowest. Quebec has an interesting profile, having the lowest positive indicator average but also among the lowest negative, suggesting a distinct health pattern rather than simply poor outcomes.
 
+### EDA Charts
+
+![Indicator Variance](images/eda_indicator_variance.png)
+![COVID Impact](images/eda_covid_impact.png)
+![Gender Differences](images/gender_difference.png)
+![Provincial Rankings](images/provincial_rankings.png)
+
 ---
 
 ## Power BI Dashboard
