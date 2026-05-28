@@ -59,8 +59,8 @@ Key findings:
 
 ![Indicator Variance](images/eda_indicator_variance.png)
 ![COVID Impact](images/eda_covid_impact.png)
-![Gender Differences](images/gender_difference.png)
-![Provincial Rankings](images/provincial_rankings.png)
+![Gender Differences](images/eda_gender_difference.png)
+![Provincial Rankings](images/eda_provincial_rankings.png)
 
 ---
 
